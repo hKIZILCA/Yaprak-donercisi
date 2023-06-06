@@ -1,0 +1,60 @@
+.arkaplan1{
+
+		min-width:960px;
+
+		min-height:587px;
+
+		background-image:url(arkaplan.jpg);
+
+		background-position:center;
+
+		} 
+
+ul {
+    text-align:justify;
+    vertical-align: middle;
+    list-style-type: none;
+    margin: 0;
+    padding:10;
+    overflow: hidden;
+    background-color:red;
+}
+ul li
+{ 
+	display:inline-block;
+	 *display:inline; /*IE7*/
+ 	*zoom:1; /*IE7*/
+}
+
+
+li {
+    display:inline-block;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: align;
+    padding: 10px 45px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color:#b01030; 
+}
+
+ul li ul {
+    background-color:red;
+    display:none;
+    position:absolute;
+    width:100px
+}
+
+ul li:hover ul{
+    display:block;
+}
+li ul li {
+    display:block; 
+}.aktif {
+    background-color:#b01030;
+}

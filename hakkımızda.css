@@ -1,0 +1,45 @@
+﻿h
+{
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	color:red;
+	font-size: 24px;
+}	
+.p1
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size: 20px;
+}
+.p2
+{
+	font-size: 14px;
+}
+.p3
+{
+	margin:30px 50;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size: 20px;
+}
+.p4
+{
+	margin:30px 50;
+	font-size: 18px;	
+}
+
+.saga-kaydir
+{
+	float:right;
+	padding:0  30px 0 10px;
+}
+ 
+.sola-kaydir
+{
+	float:left;
+	padding:0 30px 0 10px;
+}
+imglogo
+{
+	Width:460px;
+	height:320px;
+}
